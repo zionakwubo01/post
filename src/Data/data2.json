@@ -1,0 +1,30 @@
+[
+    {
+        "img": "../assets/244d1936086d86446ee0d0b95d4fd63a15cc1575e5bbcaef8f06c641ee96c994.png",
+        "title": "Zoom developer",
+        "desc": "A postman space for devs amnd technical decisions makers within thw zoom developer platform ecosystem",
+        "views": "10k views",
+        "col": "20+ collections"
+    },
+    {
+        "img": "../assets/244d1936086d86446ee0d0b95d4fd63a15cc1575e5bbcaef8f06c641ee96c994.png",
+        "title": "Passkey identity",
+        "desc": "implement passkey logins in your apps and manage user identities with two lines or code",
+        "views": "10k views",
+        "col": "20+ collections"
+    },
+    {
+        "img": "../assets/244d1936086d86446ee0d0b95d4fd63a15cc1575e5bbcaef8f06c641ee96c994.png",
+        "title": "stripe dev",
+        "desc": "stripe is a global technology company that builds economic infrastructure for the internet . signup for thr dev digest",
+        "views": "200k views",
+        "col": "20+ collections"
+    },
+    {
+        "img": "../assets/244d1936086d86446ee0d0b95d4fd63a15cc1575e5bbcaef8f06c641ee96c994.png",
+        "title": "Stuart",
+        "desc": "",
+        "views": "50k views",
+        "col": "1 collections"
+    }
+]
